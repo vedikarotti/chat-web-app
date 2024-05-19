@@ -30,7 +30,7 @@ NODE_ENV=development
 Installation
 Clone the repository and install the necessary dependencies:
 
-git clone https://github.com/yourusername/realtime-chat-app.git
+git clone https://github.com/vedikarotti/chat-web-app.git
 cd realtime-chat-app
 npm install
 Build the App
