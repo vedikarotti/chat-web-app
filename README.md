@@ -36,15 +36,15 @@ npm install
 Build the App
 Compile the React frontend:
 
+## Note no need to run the frontend and backend separately
+
+## Please go to main folder and run the following command
+
 npm run build
 Start the App
-Run the Node.js server:
 
-npm start
-Deployment
-This application is deployed on Render. You can visit the deployed application at chat-app-deploy-s7rb.onrender.com.
+## How to Use
 
-How to Use
 Sign Up: Create an account using a valid email address.
 Log In: Access your account by logging in.
 Chat: Start a conversation with friends who are also registered users.
@@ -60,7 +60,7 @@ Deployment: Render.com
 Why This Project?
 This project exemplifies a comprehensive understanding of full-stack web development, real-time data handling, and user authentication, making it an excellent showcase of my skills for potential internship opportunities. It highlights my ability to:
 
-Architect and implement a full-stack application.
+# Architect and implement a full-stack application.
 
 Use modern JavaScript frameworks and libraries.
 Handle real-time data with WebSockets.
