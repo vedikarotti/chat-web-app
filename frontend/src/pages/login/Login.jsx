@@ -23,7 +23,9 @@ const Login = () => {
 
         <form onSubmit={handleSubmit} className="mt-4">
           <div className="mb-4">
-            <label className="block text-base label-text mb-2">Username</label>
+            <label className="block text-base label-text mb-2 text-white">
+              Username
+            </label>
             <input
               type="text"
               placeholder="Enter username"
@@ -34,7 +36,9 @@ const Login = () => {
           </div>
 
           <div className="mb-4">
-            <label className="block text-base label-text mb-2">Password</label>
+            <label className="block text-base label-text mb-2 text-white">
+              Password
+            </label>
             <input
               type="password"
               placeholder="Enter Password"
