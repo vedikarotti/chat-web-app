@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 body {
+  background-color: #1d232a;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
