@@ -66,8 +66,13 @@ Use modern JavaScript frameworks and libraries.
 Handle real-time data with WebSockets.
 Manage application state efficiently.
 Deploy applications for public use.
-Contact
-For any inquiries or further information, please contact me at:
+
+# Demo credentials
+
+username :- LS
+password :- 123456
+
+# For any inquiries or further information, please contact me at:
 
 Email: vedika.rotti@gmail.com
 GitHub: https://github.com/vedikarotti
